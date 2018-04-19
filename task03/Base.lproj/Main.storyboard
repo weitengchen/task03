@@ -26,10 +26,6 @@
                                 <rect key="frame" x="0.0" y="85" width="375" height="54"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="down" translatesAutoresizingMaskIntoConstraints="NO" id="fqg-Kv-ewd">
-                                <rect key="frame" x="0.0" y="729" width="375" height="52"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="photo-1" translatesAutoresizingMaskIntoConstraints="NO" id="Yfe-QK-qgA">
                                 <rect key="frame" x="2" y="142" width="185" height="185"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -50,12 +46,16 @@
                                 <rect key="frame" x="188" y="330" width="185" height="185"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="photo-7" translatesAutoresizingMaskIntoConstraints="NO" id="sKw-CS-M6Q">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="photo-6" translatesAutoresizingMaskIntoConstraints="NO" id="sKw-CS-M6Q">
                                 <rect key="frame" x="188" y="518" width="185" height="185"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="photo-down" translatesAutoresizingMaskIntoConstraints="NO" id="pn4-5y-1pp">
                                 <rect key="frame" x="0.0" y="706" width="375" height="23"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="down" translatesAutoresizingMaskIntoConstraints="NO" id="fqg-Kv-ewd">
+                                <rect key="frame" x="0.0" y="726" width="375" height="52"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -76,7 +76,7 @@
         <image name="photo-3" width="185" height="185"/>
         <image name="photo-4" width="185" height="185"/>
         <image name="photo-5" width="185" height="185"/>
-        <image name="photo-7" width="185" height="185"/>
+        <image name="photo-6" width="185" height="185"/>
         <image name="photo-down" width="375" height="23"/>
         <image name="top" width="375" height="41"/>
     </resources>
